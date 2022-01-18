@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Chong Tan
-- 🌱 I’m currently a Master student at CMU
+- 🌱 I’m currently a Master student at CMU studying Software Engineering
 <!-- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
  -->
